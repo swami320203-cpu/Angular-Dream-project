@@ -2,4 +2,5 @@
   border: 5px solid blue; /* Sets a 5px solid blue border around the entire page content */
   margin: 0; /* Removes default body margin to ensure border is at the very edge */
   padding: 10px;
+
 }
