@@ -22,5 +22,6 @@ export class LoginComponent implements OnInit {
 submit(){
   console.log("before");
   console.log(this.mylogin);
+  console.log("after object");
 }
 }
