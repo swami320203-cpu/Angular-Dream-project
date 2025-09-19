@@ -1,0 +1,10 @@
+.headerst{
+      color:blueviolet;
+      font-weight: bold;
+      background-origin: padding-box;
+      background-color: chartreuse;
+      border-width :150px;
+}
+.paddingdi{
+  border-width :20px;
+}
